@@ -1,11 +1,11 @@
 <?php
 /**
  * Plugin Name: Divi Custom Menu Module
- * Plugin URI: https://example.com
+ * Plugin URI: https://area051.com/divi-menu-plugin
  * Description: Aggiunge un modulo Divi per visualizzare menu WordPress in orientamento orizzontale o verticale
  * Version: 1.0.0
- * Author: Your Name
- * Author URI: https://example.com
+ * Author: Area051
+ * Author URI: https://area051.com
  * License: GPL2
  */
 
